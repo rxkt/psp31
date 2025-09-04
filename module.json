@@ -1,0 +1,32 @@
+{
+  "disableAutoUpdate": false,
+  "name": "psp",
+  "author": "<font color='#297229'>Pinkie Pie / tweaked by rxkt</font>",
+  "description": "Simulates skills client-side, eliminating ping-based delays and animation lock.",
+  "options": {
+    "guiName": "<font color='#7558cd'>PSP31</font>",
+    "cliName": "PSP",
+    "settingsVersion": 4,
+    "settingsFile": "settings.json",
+    "settingsMigrator": "migration.js"
+  },
+  "servers": ["https://raw.githubusercontent.com/rxkt/psp31/main/"],
+  "conflicts": [
+    "aa-zsync",
+    "cooldowns",
+    "cooldowns-master",
+    "fastfire",
+    "fastfire-master",
+    "fast-fire",
+    "fast-fire-master",
+    "lockons",
+    "lockons-master",
+    "lockons-light",
+    "lockons-light-master",
+    "ping-compensation",
+    "ping-remover",
+    "skill-prediction-master",
+    "skill-prediction-plus"
+  ],
+  "version": "<font color='#800000'>1.0.4</font>"
+}
