@@ -153,6 +153,7 @@ This module conflicts with several other modules that affect skill usage. Do not
 
 Many have contributed to this module over the years. This version is a fork of Pinkie Pie's original Skill Prediction for Caali's tera-proxy.
 Then many have modified to be compatible with TERA Toolbox.
-This final version was modded to work with Tera patch 31.04, on private server Omni, by merusira and Kasane.
+This final version was modded to work with Tera patch 31.04, on private server OSTO, by rxkt.
+We are looking to improve the stability of Skill Prediction - please feel free to reach out to rxkt or open a PR for additional changes if needed.
 
 ## FIN
