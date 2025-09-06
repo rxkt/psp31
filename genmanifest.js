@@ -1,41 +1,52 @@
-'use strict'
+"use strict";
+const crypto = require("crypto");
+const fs = require("fs");
+const path = require("path");
 
-const fs = require('fs'),
-	path = require('path'),
-	crypto = require('crypto')
+const IGNORED_FILES = ["manifest.json", "manifest-generator.js", "manifest-generator.bat", "manifest-generator.exe", "node.exe"];
+const IGNORED_START_SYMBOL = [".", "_"];
 
-const startTime = Date.now()
-
-let count = 0
-
-function generate(base) {
-	const manifest = {}
-	addDir(manifest, base, '')
-	delete manifest['manifest.json']
-	return manifest
+//load predefined manifest
+let manifest = undefined;
+try {
+	manifest = require("./manifest.json");
+	if (manifest && typeof manifest === "object") {
+		if (!manifest.files) manifest.files = {};
+	}
+	else manifest = { "files": {} };
 }
+catch (err) { manifest = { "files": {} };}
 
-function addDir(manifest, base, relDir) {
-	const absDir = path.join(base, relDir)
+//cleanup manifest
+Object.keys(manifest.files).forEach(entry => {
+	try { fs.accessSync(path.join(__dirname, entry), fs.constants.F_OK) }
+	catch (err) { delete manifest.files[entry]; }
+});
 
-	for(let file of fs.readdirSync(absDir))
-		if(file !== '.git') {
-			const absFile = path.join(absDir, file),
-				relFile = relDir ? `${relDir}/${file}` : file
-
-			if(fs.lstatSync(absFile).isDirectory()) addDir(manifest, base, relFile)
-			else {
-				manifest[relFile] = crypto.createHash('sha256').update(fs.readFileSync(absFile)).digest().toString('base64')
-				count++
-			}
+//recursive file gather
+function findInDirRelative(dir, fileList = []) {
+	const files = fs.readdirSync(dir);
+	files.forEach((file) => {
+		const filePath = path.join(dir, file);
+		const fileStat = fs.lstatSync(filePath);
+		if (!IGNORED_FILES.includes(file) && !IGNORED_START_SYMBOL.includes(file[0])) {
+			if (fileStat.isDirectory()) findInDirRelative(filePath, fileList);
+			else fileList.push(path.relative(__dirname, filePath));
 		}
+	});
+	return fileList;
 }
 
-const base = process.argv[2],
-	manifest = { files: generate(base) }
+//generate hash
+const files = findInDirRelative(__dirname);
+files.forEach(filePath => {
+	let file = filePath.replace(/\\/g, "/");
+	if (manifest.files[file] && typeof manifest.files[file] === "object") {
+		manifest.files[file].hash = crypto.createHash("sha256").update(fs.readFileSync(path.join(__dirname, file))).digest("hex");
+	}
+	else
+		manifest.files[file] = crypto.createHash("sha256").update(fs.readFileSync(path.join(__dirname, file))).digest("hex");
+})
 
-console.log(`Added ${count} file(s) in ${Date.now() - startTime}ms`)
-
-fs.writeFileSync(path.join(base, 'manifest.json'), JSON.stringify(manifest, null, '\t'))
-
-console.log('Done!')
+//save file
+fs.writeFileSync(path.join(__dirname, "manifest.json"), JSON.stringify(manifest, null, "\t"), "utf8");
