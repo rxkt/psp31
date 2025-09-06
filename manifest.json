@@ -5,7 +5,7 @@
 		"config/passivity.json": "Mg6nlAaJq4igzAWdLfRAebmDGDIr9ws2tvUYCcPvgCM=",
 		"config/silence.json": "T1PNoYwrqgwDVLtfmj7L5e0Sq02OEbqHPC8RFhICuUU=",
 		"config/skillDataMap.js": "NFaY1w1oetWNGQ5kPS+cvNtoRgVlyNRQYJImnGagEGg=",
-		"config/skills.js": "6jGNA7yRC2xI3H/Tgb6DSQadj8nNea8JbKYK3Q8jZh4=",
+		"config/skills.js": "6NZEBEMhp0DVue5tthhY0sVNwsVOEguQQvOPjUEb1+Y=",
 		"config/skills_client/10101.json": "zRw3xT9TEY+EnuvJuF7c1BDxdfKbbL3jwFs+JL+7BS8=",
 		"config/skills_client/10102.json": "y9qEMV5ik0nMCU51NwdlQ2ppGgdJXR8v1wS7iK7itLs=",
 		"config/skills_client/10103.json": "fjPCedAE5SsV3Tr1Qj+IaDnMufQEv+nvG1dnmZ3y4CI=",
@@ -80,8 +80,8 @@
 		"config/skills_client/10906.json": "e3JaQHYNqaWKN7QpG/E4Su6du6wVi0D9j172hQWK/9Y=",
 		"config/skills_client/10907.json": "S3DlcrrIXNazx+LHwej7rs6xamyFkBX0YVPrGJttqpc=",
 		"config/skills_client/10908.json": "Ad7mp6Cp65+d3c/gKMo+z5fmYEvszeOBECs10ti8V6s=",
-		"config/skills_client/11001.json": "mNP+enrnkY92lHzKX/IOwZzQ4NsG0QXekwYMJv/mC1Q=",
-		"config/skills_client/11002.json": "PlMGHy1/XQyICbs4mWuMtsiSHavHhxghUm1jDWjPTxU=",
+		"config/skills_client/11001.json": "yWu6Txjwvbcep9LtDGq2YlbWmdiuN1XXY3a7V6u0emM=",
+		"config/skills_client/11002.json": "g7HbVnI1DRrGPSOWwriwokuDtUB8ihVciSzk/X8f4GA=",
 		"config/skills_client/11003.json": "JAXrFiqsOErwDWcbSJs+Yf9I4ZnvhyD6PFe/gcbvb7s=",
 		"config/skills_client/11004.json": "hQZb9pjx5/41p76g/99UY3FfVDLLo0tzZ+N9UCSh4Qc=",
 		"config/skills_client/11005.json": "KTCrbUJyvRywe26OkYGFgeWE4lXjnbxsIgaXw4ME8jA=",
@@ -175,6 +175,6 @@
 		"package-lock.json": "28TWNZFqSqtt9EVpvgZIm5BLq2smpndHK0Wa57v9qWc=",
 		"package.json": "hB7W00I0UWZEvaYQobV10bRD/KxHQZGLfkBp6UXffdY=",
 		"README.md": "PvcOrWH4BfXpiCAd8ENdwjsrOu5yROMqxlB6QUmmf9M=",
-		"settings.json": "l2VJiNhpv6laeyWK7UvwVQuYwzpz48SNX+gxHWlUFyQ="
+		"settings.json": "9mf8sdw+lrAHnOBWZfv05c+8PTuNzp9zKXkZhChcRpU="
 	}
 }

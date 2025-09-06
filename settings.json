@@ -24,7 +24,7 @@
             "loc": false,
             "glyphs": false,
             "projectiles": false,
-            "abnormals": true
+            "abnormals": false
         }
     }
 }

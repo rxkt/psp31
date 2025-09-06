@@ -34328,9 +34328,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "rearCancelStartTime": 60000,
-      "skillPendingType": "rearCancelOnly",
-      "distance": 125,
-      "length": 1666
+      "skillPendingType": "rearCancelOnly"
     },
     "20200": {
       "category": [2002, 81, 148, 103, 10000, 9999],
@@ -34338,9 +34336,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "rearCancelStartTime": 60000,
-      "skillPendingType": "rearCancelOnly",
-      "distance": 125,
-      "length": 343
+      "skillPendingType": "rearCancelOnly"
     },
     "20300": {
       "category": [2002, 81, 148, 103, 10000, 9999],
@@ -34348,9 +34344,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "rearCancelStartTime": 60000,
-      "skillPendingType": "rearCancelOnly",
-      "distance": 125,
-      "length": 1666
+      "skillPendingType": "rearCancelOnly"
     },
     "30100": {
       "category": [2003, 12, 102, 9011, 10000, 9999],

@@ -189,7 +189,7 @@ module.exports = {
 			2: true // 10102, 10202, 10302, 10402, 10502, 10602, 10702, 10802, 10902, 11002, 11102, 11202, 11302, 11402, 11502
 		},
 		2: { // Stand Fast 
-			0: { fixedSpeed: true, stamina: 50 } // 20100, 20200, 20300
+			0: { fixedSpeed: true, stamina: 50, type: 'holdInfinite' } // 20100, 20200, 20300
 		},
 		3: false,
 		// 3: { // Onslaught 
