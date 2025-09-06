@@ -35245,7 +35245,7 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 1200,
       "skillPendingType": "normal",
-      "distance": 450,
+      "distance": 0,
       "abnormalChains": {
         "200100": 31,
         "201000": 31
