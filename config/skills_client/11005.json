@@ -30613,296 +30613,227 @@
     },
     "110100": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110140": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110200": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110240": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110300": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110340": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110400": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110440": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110500": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110540": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110600": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110640": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110700": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110740": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110800": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110840": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "110900": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "110940": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
       "distance": 135,
       "length": 1033
     },
     "111000": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "111040": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "111100": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "immediateCancel",
-      "length": 950
+      "length": 1000
     },
     "111140": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "111200": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "length": 950
+      "length": 1000
     },
     "111240": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "111300": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "length": 950
+      "length": 1000
     },
     "111340": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "111400": {
       "category": [5011, 22, 102, 9012, 10000, 9999],
-      "dcType": "connect",
+      "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "length": 950
+      "length": 1000
     },
     "111440": {
       "category": [5011, 22, 102, 131, 9012, 10001, 9999],
       "dcType": "normal",
       "timeRate": 1,
       "noWeapon": false,
-      "pendingStartTime": 600,
       "rearCancelStartTime": 1033,
-      "skillPendingType": "normal",
-      "distance": 135,
       "length": 1033
     },
     "120100": {
