@@ -32,7 +32,7 @@ function addDir(manifest, base, relDir) {
 }
 
 const base = process.argv[2],
-	manifest = { data: generate(base) }
+	manifest = { files: generate(base) }
 
 console.log(`Added ${count} file(s) in ${Date.now() - startTime}ms`)
 

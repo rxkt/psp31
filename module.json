@@ -10,7 +10,7 @@
     "settingsFile": "settings.json",
     "settingsMigrator": "migration.js"
   },
-  "servers": ["https://raw.githubusercontent.com/rxkt/psp31/refs/head/main/"],
+  "servers": ["https://raw.githubusercontent.com/rxkt/psp31/main/"],
   "conflicts": [
     "aa-zsync",
     "cooldowns",

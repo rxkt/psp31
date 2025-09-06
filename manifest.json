@@ -1,5 +1,5 @@
 {
-	"data": {
+	"files": {
 		"config/abnormalities.js": "mzSejmUz7gl9iYQF94dkDzjRxsPn0cLZvlP9GNoMsR0=",
 		"config/clientSkills.md": "lifqjiep8BFpq07DTFin8SGudIlv30MH19qLCsc7BRw=",
 		"config/passivity.json": "Mg6nlAaJq4igzAWdLfRAebmDGDIr9ws2tvUYCcPvgCM=",
@@ -98,7 +98,7 @@
 		"config/skills_client/11107.json": "VpwOgIlTOE+VXU0TrXgCxpY/JhXzSExQk8XBcRp8TOY=",
 		"config/skills_client/11108.json": "iVKrK4O71FN2oXjE9024+qfisj9jgMqs2hhUYRXDkUQ=",
 		"config/skills_client/clientSkills.md": "lifqjiep8BFpq07DTFin8SGudIlv30MH19qLCsc7BRw=",
-		"genmanifest.js": "RmnAlNEf7Mitl31MB9UQ4lFt6u3AG3BzGYpVwfpY3WY=",
+		"genmanifest.js": "EbdvGxVYBHu4UfKpQHL5sbx6r/jwNIs8Jpxwa7to7C0=",
 		"lib/abnormalities.js": "VcXFb2R9jVPwvABkDztxjTbiGFkr91A/mHjNVfoV1m8=",
 		"lib/commands.js": "usFOp+OENmcNaaYNPB1g9ZPbxaJTMiTMrPJw4HNAxNE=",
 		"lib/cooldowns.js": "Q0JRp5Wrlb34H158XlWosZUL/6lVXBNvUY9qy541f6s=",
@@ -112,7 +112,7 @@
 		"LICENSE": "WJ7YI+moTFb+uVrFjnzzhGJrnL9P2iqQe8NuED3hutI=",
 		"migration.js": "L780qanq6NX4N4OgkmiUIYlJq7YR+n49JmSkDBH3FnQ=",
 		"module.config.json": "uCOtlUHUtRGCIyq3f34GTauaGgREewuK7uWdqh9O1PY=",
-		"module.json": "pvwuJqgDtNutYNaqt17MewN2eVV5T8AMU3MWJCmZIeI=",
+		"module.json": "2UAIvxcZq0lun5nDXSY9AArqdSf2tbzISLsJ2Eo7uzQ=",
 		"node_modules/sax/lib/sax.js": "4iHSj0HtKz1xIs9ZYncs/+Q66XbYwGDMEWRw1c7fVMA=",
 		"node_modules/sax/LICENSE": "6L9HffQQuqQdRBMuZ20WpTcs8XmFmfrCgjN23JXpTu4=",
 		"node_modules/sax/package.json": "94+O/RpRjNZ4fFwGgG7hjqVZrPWDzYDSI3ZBxK3PuYk=",
