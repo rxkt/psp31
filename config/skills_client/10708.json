@@ -32310,7 +32310,7 @@
       "length": 1294
     },
     "30100": {
-      "category": [8003, 19, 107, 10000, 9999],
+      "category": [8012, 8003, 19, 107, 10000, 9999],
       "dcType": "normal",
       "timeRate": 1.1,
       "noWeapon": false,
@@ -32324,7 +32324,7 @@
       "length": 1533
     },
     "30200": {
-      "category": [8003, 19, 107, 10000, 9999],
+      "category": [8012, 8003, 19, 107, 10000, 9999],
       "dcType": "normal",
       "timeRate": 1.1,
       "noWeapon": false,
@@ -32338,7 +32338,7 @@
       "length": 1533
     },
     "30300": {
-      "category": [8003, 19, 107, 10000, 9999],
+      "category": [8012, 8003, 19, 107, 10000, 9999],
       "dcType": "normal",
       "timeRate": 1.1,
       "noWeapon": false,
@@ -32352,7 +32352,7 @@
       "length": 1533
     },
     "30400": {
-      "category": [8003, 19, 107, 10000, 9999],
+      "category": [8012, 8003, 19, 107, 10000, 9999],
       "dcType": "normal",
       "timeRate": 1.1,
       "noWeapon": false,
@@ -32366,7 +32366,7 @@
       "length": 1533
     },
     "30500": {
-      "category": [8003, 19, 107, 10000, 9999],
+      "category": [8012, 8003, 19, 107, 10000, 9999],
       "dcType": "normal",
       "timeRate": 1.1,
       "noWeapon": false,
@@ -32380,7 +32380,7 @@
       "length": 1533
     },
     "30600": {
-      "category": [8003, 19, 107, 10000, 9999],
+      "category": [8012, 8003, 19, 107, 10000, 9999],
       "dcType": "normal",
       "timeRate": 1.1,
       "noWeapon": false,
