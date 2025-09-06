@@ -1608,7 +1608,7 @@
     "method": 4,
     "value": 27130
   },
-  "27074": { "conditionCategory": 8012, "type": 217, "method": 2, "value": 75 },
+  "27074": { "conditionCategory": 8012, "type": 77, "method": 3, "value": 2 },
   "27075": { "conditionCategory": 8028, "type": 71, "method": 3, "value": 0.8 },
   "27077": {
     "conditionCategory": 8037,
