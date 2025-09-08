@@ -32513,7 +32513,7 @@
       "noWeapon": false,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "length": 700,
+      "length": [200, 400],
       "distance": 20,
       "abnormalChains": {
         "501200": 31
@@ -32526,7 +32526,7 @@
       "noWeapon": false,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "length": 700,
+      "length": [200, 400],
       "distance": 20,
       "abnormalChains": {
         "100600": 31
