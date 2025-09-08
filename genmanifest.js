@@ -59,7 +59,10 @@ const FORCE_UNIX_FILE_TYPES = [
     '.cfg',
     '.ini',
     '.list',
-    '.lst'
+    '.lst',
+	'.py',
+	'.yml',
+	'CENSE' // for license file that doesn't have extension
 ]
 
 ////////////////////
