@@ -260,9 +260,9 @@ module.exports = {
 		},
 		13: { // Spring Attack 
 			0: {
-				noInterrupt: [1, 3, 13, 15, 25, 26],
+				noInterrupt: ['1-0', '1-1', 3, 13, 15, 25, 26],
 				chains: {
-					1: 30,
+					'1-2': 30,
 					5: 30,
 					8: 30,
 					10: 30,
