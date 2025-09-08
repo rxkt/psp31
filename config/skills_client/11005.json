@@ -32059,7 +32059,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200200": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32077,7 +32077,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200300": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32095,7 +32095,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200400": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32113,7 +32113,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200500": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32131,7 +32131,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200600": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32149,7 +32149,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200700": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32167,7 +32167,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "200800": {
       "category": [5020, 22, 134, 102, 9012, 10000, 9999],
@@ -32185,7 +32185,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1800,
       "skillPendingType": "immediateCancel",
-      "length": 1501
+      "length": 1800
     },
     "210100": {
       "category": [5021, 26, 134, 106, 9012, 10000, 9999],
