@@ -35164,7 +35164,7 @@
       "pendingStartTime": 1200,
       "rearCancelStartTime": 2000,
       "skillPendingType": "normal",
-      "length": [229, 471]
+      "length": [750, 1250]
     },
     "271200": {
       "category": [8027, 32, 109, 10000, 9999],
@@ -35174,7 +35174,7 @@
       "pendingStartTime": 1200,
       "rearCancelStartTime": 2000,
       "skillPendingType": "normal",
-      "length": [229, 471]
+      "length": [750, 1250]
     },
     "271300": {
       "category": [8027, 32, 109, 10000, 9999],
