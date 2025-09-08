@@ -825,7 +825,7 @@ module.exports = {
 		},
 		28: { // Sorcerer Stone shape ON
 			0: true, // 280100, 280200, 280300, 280400,
-			50: true // 280150, 280250, 280350, 280450
+			50: false // 280150, 280250, 280350, 280450
 		},
 		29: { // Sorcerer Tornado prison Cast
 			0: true, // 290100, 290200,
