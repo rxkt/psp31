@@ -30228,7 +30228,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1100
+      "length": 2000
     },
     "80200": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30239,7 +30239,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1100
+      "length": 2000
     },
     "80300": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30250,7 +30250,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "80400": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30261,7 +30261,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "80500": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30272,7 +30272,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "80600": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30283,7 +30283,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "80700": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30294,7 +30294,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "80800": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30305,7 +30305,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "80900": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30316,7 +30316,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "81000": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30327,7 +30327,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "81100": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30338,7 +30338,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "81200": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30349,7 +30349,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "81300": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30360,7 +30360,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "81400": {
       "category": [5008, 12, 102, 9011, 10000, 9999],
@@ -30371,7 +30371,7 @@
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
       "distance": 30,
-      "length": 1210
+      "length": 2000
     },
     "90100": {
       "category": [5009, 18, 107, 10000, 9999],
@@ -31579,7 +31579,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180200": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31593,7 +31593,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180300": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31607,7 +31607,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180400": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31621,7 +31621,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180500": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31635,7 +31635,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180600": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31649,7 +31649,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180700": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31663,7 +31663,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180800": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31677,7 +31677,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "180900": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31691,7 +31691,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "181000": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31705,7 +31705,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "181100": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31719,7 +31719,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "181200": {
       "category": [5018, 84, 148, 9011, 10000, 9999],
@@ -31733,7 +31733,7 @@
       "abnormalChains": {
         "500200": 31
       },
-      "length": 1300
+      "length": 1111
     },
     "190100": {
       "category": [5019, 31, 108, 9012, 10000, 9999],
