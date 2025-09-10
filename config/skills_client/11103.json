@@ -4837,7 +4837,7 @@
       "abnormalChains": {
         "300300": 31
       },
-      "length": 200
+      "length": 600
     },
     "180200": {
       "category": [
@@ -4856,7 +4856,7 @@
       "abnormalChains": {
         "300301": 31
       },
-      "length": 1433
+      "length": 600
     },
     "180300": {
       "category": [
@@ -4875,7 +4875,7 @@
       "abnormalChains": {
         "300300": 31
       },
-      "length": 200
+      "length": 600
     },
     "180400": {
       "category": [
@@ -4894,7 +4894,7 @@
       "abnormalChains": {
         "300300": 31
       },
-      "length": 200
+      "length": 600
     },
     "190100": {
       "category": [
@@ -4913,7 +4913,6 @@
         500,
         700
       ],
-      "distance": 20,
       "abnormalChains": {
         "301040": 31
       }
@@ -4935,7 +4934,6 @@
         500,
         700
       ],
-      "distance": 20,
       "abnormalChains": {
         "301040": 31
       }
@@ -4957,7 +4955,6 @@
         500,
         700
       ],
-      "distance": 20,
       "abnormalChains": {
         "301040": 31
       }
@@ -4979,7 +4976,6 @@
         500,
         700
       ],
-      "distance": 20,
       "abnormalChains": {
         "301040": 31
       }
@@ -5001,7 +4997,6 @@
         500,
         700
       ],
-      "distance": 20,
       "abnormalChains": {
         "301040": 31
       }
@@ -5020,7 +5015,6 @@
       "rearCancelStartTime": 1100,
       "skillPendingType": "normal",
       "length": 1200,
-      "distance": 30,
       "abnormalChains": {
         "300800": 31
       }
@@ -5039,7 +5033,6 @@
       "rearCancelStartTime": 1100,
       "skillPendingType": "normal",
       "length": 1200,
-      "distance": 30,
       "abnormalChains": {
         "300801": 31
       }
@@ -5058,7 +5051,6 @@
       "rearCancelStartTime": 1100,
       "skillPendingType": "normal",
       "length": 1200,
-      "distance": 30,
       "abnormalChains": {
         "100600": 31
       }
@@ -5077,7 +5069,6 @@
       "rearCancelStartTime": 1100,
       "skillPendingType": "normal",
       "length": 1200,
-      "distance": 30,
       "abnormalChains": {
         "100600": 31
       }
