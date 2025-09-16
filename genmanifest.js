@@ -47,6 +47,7 @@ const FORCE_UNIX_FILE_TYPES = [
     '.txt',
     '.text',
     '.js',
+    '.ts',
     '.json',
     '.jsn',
     '.xml',

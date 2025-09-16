@@ -120,7 +120,7 @@
         "config/skills_client/11109.json": "63827c352ec10ba84f51115c068eea20d7f6280e76dc8f8a0b2551f6c3ba7dd3",
         "config/skills_client/clientSkills.md": "e521e1415dc6a96dbeab12002515fb405303c5c35997a9d80cd0cfb79e2e2f0e",
         "config/skills_client/syncRaceFiles.py": "15df9127ef10e164fe4d1fc1d818d54dd0d508543e4327bd9a92a9f9cd308f6f",
-        "genmanifest.js": "2b33f720dc7a37b8ed8048db2878fc24f0d1b38e7702d47543e49932c1b12b0c",
+        "genmanifest.js": "256f203edc4ccb2e3e6a60a9bd9369e2d8a6a8ba401e1fec10e91eebd1c2ff03",
         "lib/abnormalities.js": "55c5c56f647d8d53f0bc00640f3b718d36e218592bf7503f9878cd55fa15d66f",
         "lib/commands.js": "bac14ea7e38436670d69a60d3c1d60f593dbc5a2533224ccacf270e07340c4d1",
         "lib/cooldowns.js": "434251a795ab95bdf81f5e7c5e55a8b1950bffa9555c136f518f6acb9e357fab",
@@ -192,7 +192,7 @@
         "node_modules/xmlbuilder/lib/XMLWriterBase.js": "85bfc5e040c5c6433bf5756c7c0937c2e368571b6c30fcc2773e60fef1a0f631",
         "node_modules/xmlbuilder/lib/index.js": "4cf96f945039be2d27ac2eb40af3f43ee8c37ff50abd7fc5281c173a98da6dbe",
         "node_modules/xmlbuilder/package.json": "7e2f254e4004b5ea5f6ee351541afe893f8dfc66f8b527774c5a57860a8778d8",
-        "node_modules/xmlbuilder/typings/index.d.ts": "6cca46be2fd07142da5292dae8d42fa19d56140f8674944a4a150b7ddbcec153",
+        "node_modules/xmlbuilder/typings/index.d.ts": "ff4ec1a818fdc981cf63e314447224587848ca4738e9fb5818b3c204df7b5743",
         "package-lock.json": "dbc4d635916a4aab6df44569be06489b904bab6b26a677472b459ae7bbfda967",
         "package.json": "841ed6d34234516644bda610a1b575d1b443fcac4741918b7e4069e945df7dd6"
     }
