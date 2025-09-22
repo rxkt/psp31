@@ -40470,7 +40470,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60200": {
@@ -40488,7 +40487,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60300": {
@@ -40506,7 +40504,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60400": {
@@ -40524,7 +40521,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60500": {
@@ -40542,7 +40538,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60600": {
@@ -40560,7 +40555,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60700": {
@@ -40578,7 +40572,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60800": {
@@ -40596,7 +40589,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "60900": {
@@ -40614,7 +40606,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "61000": {
@@ -40632,7 +40623,6 @@
       "pendingStartTime": 4500,
       "rearCancelStartTime": 5500,
       "skillPendingType": "normal",
-      "distance": 120,
       "length": 3700
     },
     "70100": {
@@ -40708,7 +40698,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80200": {
@@ -40726,7 +40715,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80300": {
@@ -40744,7 +40732,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80400": {
@@ -40762,7 +40749,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80500": {
@@ -40780,7 +40766,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80600": {
@@ -40798,7 +40783,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80700": {
@@ -40816,7 +40800,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80800": {
@@ -40834,7 +40817,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "80900": {
@@ -40852,7 +40834,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "81000": {
@@ -40870,7 +40851,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "81100": {
@@ -40888,7 +40868,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "81200": {
@@ -40906,7 +40885,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "81300": {
@@ -40924,7 +40902,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "81400": {
@@ -40942,7 +40919,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1500,
       "skillPendingType": "normal",
-      "distance": 30,
       "length": 2000
     },
     "90100": {
@@ -40959,7 +40935,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -40979,7 +40954,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -40999,7 +40973,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41019,7 +40992,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41039,7 +41011,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41059,7 +41030,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41079,7 +41049,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41099,7 +41068,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41119,7 +41087,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500100": 31
       },
@@ -41139,7 +41106,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500600": 31
       },
@@ -41159,7 +41125,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500601": 31
       },
@@ -41179,7 +41144,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500602": 31
       },
@@ -41199,7 +41163,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500603": 31
       },
@@ -41219,7 +41182,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500604": 31
       },
@@ -41239,7 +41201,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500605": 31
       },
@@ -41259,7 +41220,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500606": 31
       },
@@ -41279,7 +41239,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "500607": 31
       },
@@ -42004,7 +41963,6 @@
       "pendingStartTime": 4800,
       "rearCancelStartTime": 4800,
       "skillPendingType": "normal",
-      "distance": 120,
       "abnormalChains": {
         "500800": 31
       },
@@ -42024,7 +41982,6 @@
       "pendingStartTime": 4800,
       "rearCancelStartTime": 4800,
       "skillPendingType": "normal",
-      "distance": 120,
       "abnormalChains": {
         "500801": 31
       },
@@ -42044,7 +42001,6 @@
       "pendingStartTime": 4800,
       "rearCancelStartTime": 4800,
       "skillPendingType": "normal",
-      "distance": 120,
       "abnormalChains": {
         "500802": 31
       },
@@ -42064,7 +42020,6 @@
       "pendingStartTime": 4800,
       "rearCancelStartTime": 4800,
       "skillPendingType": "normal",
-      "distance": 120,
       "abnormalChains": {
         "500801": 31
       },
@@ -43254,7 +43209,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190211": {
@@ -43273,7 +43227,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190212": {
@@ -43292,7 +43245,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190213": {
@@ -43311,7 +43263,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190300": {
@@ -43348,7 +43299,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190311": {
@@ -43367,7 +43317,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190312": {
@@ -43386,7 +43335,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190313": {
@@ -43405,7 +43353,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190400": {
@@ -43442,7 +43389,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190411": {
@@ -43461,7 +43407,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190412": {
@@ -43480,7 +43425,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190413": {
@@ -43499,7 +43443,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190500": {
@@ -43536,7 +43479,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190511": {
@@ -43555,7 +43497,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190512": {
@@ -43574,7 +43515,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190513": {
@@ -43593,7 +43533,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190600": {
@@ -43630,7 +43569,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190611": {
@@ -43649,7 +43587,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190612": {
@@ -43668,7 +43605,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "190613": {
@@ -43687,7 +43623,6 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1000,
       "skillPendingType": "immediateCancel",
-      "distance": 465,
       "length": 909
     },
     "200100": {
@@ -45132,7 +45067,6 @@
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "rearCancelOnly",
-      "distance": 20,
       "abnormalChains": {
         "501500": 31,
         "501501": 31
@@ -45167,7 +45101,6 @@
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "rearCancelOnly",
-      "distance": 20,
       "abnormalChains": {
         "11": 31,
         "501501": 31
@@ -45202,7 +45135,6 @@
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "rearCancelOnly",
-      "distance": 20,
       "abnormalChains": {
         "11": 31,
         "501501": 31
@@ -45237,7 +45169,6 @@
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "rearCancelOnly",
-      "distance": 20,
       "abnormalChains": {
         "11": 31,
         "501501": 31
