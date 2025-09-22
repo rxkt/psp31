@@ -9726,8 +9726,7 @@
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
-      "length": null,
-      "distance": null
+      "length": null
     },
     "270100": {
       "category": [
