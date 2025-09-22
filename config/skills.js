@@ -62,6 +62,9 @@ module.exports = {
 		5: { // Battle Cry 
 			0: {
 				noInterrupt: [32],
+				glyphs: {
+					21040: { speed: 1.5 }
+				}
 			} // 50100, 50200, 50300, 50400, 50500, 50600, 50700, 50800, 50900, 51000, 51100, 51200, 51300, 59100
 		},
 		6: { // Warrior Voidtrap Start
