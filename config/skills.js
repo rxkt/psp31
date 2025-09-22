@@ -306,7 +306,7 @@ module.exports = {
 			0: { fixedSpeed: true } // 190100, 190200, 190300, 190400
 		},
 		20: { // Lancer Menace Wave Cast
-			0: true // 200100, 200200, 200300
+			0: { fixedSpeed: true } // 200100, 200200, 200300
 		},
 		21: { // Lockdown Blow 
 			0: true // 210100, 210200, 210300, 210400, 210500, 210600, 210700
