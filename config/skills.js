@@ -554,6 +554,7 @@ module.exports = {
 			30: true // 60100, 60200, 60300, 60400, 60500, 60600, 60700, 60800
 		},
 		7: { // Berserker Shocking Shout Start
+			'*': { fixedSpeed: true, length: 1285 },
 			0: true // 70100, 70200, 70300, 70400
 		},
 		8: { // Fiery Rage 
