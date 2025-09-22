@@ -349,7 +349,12 @@ module.exports = {
 			30: true // 250130, 250230, 250330, 250430, 250530, 250630, 250730, 250830, 250930, 251030
 		},
 		26: { // Backstep 
-			0: {forceClip: true, stamina: 200, instantStamina: true, noInterrupt: [26] } // 260100, 260200, 260300
+			0: {
+				forceClip: true, 
+				stamina: 200, 
+				instantStamina: true, 
+				noInterrupt: [26]
+			} // 260100, 260200, 260300
 		},
 		27: { // Rallying Cry 
 			0: true // 270100
@@ -456,7 +461,10 @@ module.exports = {
 			//'*': { forceClip: true },
 			0: {
 				moveDir: 1,
-				forceClip: true
+				forceClip: true,
+				glyphs: {
+					23060: { speed: 1.25 }
+				}
 			} // 150100, 150200, 150300, 150400, 150500, 150600, 150700, 150800, 150900, 151000, 151100
 		},
 		16: { // Fury Strike 
