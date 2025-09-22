@@ -36,8 +36,19 @@ module.exports = {
 			}
 		},
 		2: { // Evasive Roll 
-			0: { length: 825,
-				distance: 150, forceClip: true,stamina: 500, instantStamina: true, noInterrupt: [32, 10]} // 20100, 20200, 20300
+			0: { 
+				length: 825,
+				distance: 150, 
+				forceClip: true,
+				stamina: 500, 
+				instantStamina: true, 
+				noInterrupt: [32, 10],
+				glyphs: {
+					21015: { stamina: -100 },
+					21067: { stamina: -100 },
+					21101: { stamina: -120 }
+				}
+			} // 20100, 20200, 20300
 		},
 		3: { // Torrent of Blows 
 			0: true // 30100, 30200, 30300, 30400, 30500, 30600, 30700, 30800, 30900, 31000, 31100, 31200
