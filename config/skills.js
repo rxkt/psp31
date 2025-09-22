@@ -1041,7 +1041,12 @@ module.exports = {
 			50: true // 280150, 280250, 280350, 280450
 		},
 		29: { // Thunderbolt 
-			0: true, // 290100,
+			0: {
+				glyphs: {
+					26089: { speed: 1.3 },
+					26102: { speed: 1.3 }
+				}
+			}, // 290100,
 			20: true // 290120
 		},
 		31: { // Archer Tenacity Cast
