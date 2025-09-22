@@ -1152,8 +1152,7 @@
       "pendingStartTime": 250,
       "rearCancelStartTime": 750,
       "skillPendingType": "rearCancel",
-      "length": 0,
-      "distance": null
+      "length": 0
     },
     "70200": {
       "category": [
@@ -1218,8 +1217,7 @@
       "pendingStartTime": 250,
       "rearCancelStartTime": 750,
       "skillPendingType": "rearCancel",
-      "length": 0,
-      "distance": null
+      "length": 0
     },
     "80100": {
       "category": [
@@ -1789,8 +1787,7 @@
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
-      "length": null,
-      "distance": null
+      "length": null
     },
     "130130": {
       "category": [
