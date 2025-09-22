@@ -1067,7 +1067,8 @@ module.exports = {
 		19: { // Focus Heal 
 			0: { 
 				noRetry: true,
-				type: 'lockon' 
+				type: 'lockon',
+				fixedSpeed: true
 			}, // 190100, 190200, 190300, 190400, 190500, 190600, 190700, 190800, 190900, 191000, 191100, 191200,
 			10: { type: 'lockonCast' } // 190110, 190210, 190310, 190410, 190510, 190610, 190710, 190810, 190910, 191010, 191110, 191210
 		},
@@ -1119,22 +1120,33 @@ module.exports = {
 		},
 		30: { // Plague of Exhaustion 
 			0: {
-				noRetry: true
+				noRetry: true,
+				fixedSpeed: true
 			}, // 300100, 300200, 300300, 300400, 300500, 300600, 300700, 300800, 300900, 301000,
-			10: true // 300110, 300210, 300310, 300410, 300510, 300610, 300710, 300810, 300910, 301010
+			10: {
+				fixedSpeed: true
+			} // 300110, 300210, 300310, 300410, 300510, 300610, 300710, 300810, 300910, 301010
 		},
 		31: { // Guardian Sanctuary 
-			0: true // 310100, 310200, 310300, 310400, 310500
+			0: {
+				fixedSpeed: true
+			} // 310100, 310200, 310300, 310400, 310500
 		},
 		32: { // Divine Prayer 
-			0: true // 320100, 320200, 320300, 320400, 320500
+			0: {
+				fixedSpeed: true
+			} // 320100, 320200, 320300, 320400, 320500
 		},
 		33: { // Ishara's Lulliby 
 			0: { 
 				type: 'lockon',
-				noRetry: true
+				noRetry: true,
+				fixedSpeed: true
 			}, // 330100, 330200, 330300, 330400, 330500,
-			10: { type: 'lockonCast' } // 330110, 330210, 330310, 330410, 330510
+			10: { 
+				type: 'lockonCast',
+				fixedSpeed: true
+			} // 330110, 330210, 330310, 330410, 330510
 		},
 		34: { // Restorative Burst 
 			0: true, // 340100, 340200, 340300, 340400, 340500, 340600, 340700, 340800, 340900, 341000, 341100, 341200, 341300, 341400,
@@ -1143,9 +1155,13 @@ module.exports = {
 		35: { // Energy Stars 
 			0: { 
 				type: 'lockon',
-				noRetry: true
+				noRetry: true,
+				fixedSpeed: true
 			}, // 350100, 350200, 350300, 350400, 350500, 350600, 350700,
-			10: { type: 'lockonCast' } // 350110, 350210, 350310, 350410, 350510, 350610, 350710
+			10: { 
+				type: 'lockonCast',
+				fixedSpeed: true
+			} // 350110, 350210, 350310, 350410, 350510, 350610, 350710
 		},
 		36: { // Priest Advent Goddess
 			0: true // 360100, 360200
@@ -1153,9 +1169,13 @@ module.exports = {
 		37: { // Healing Immersion 
 			0: { 
 				type: 'lockon',
-				noRetry: true
+				noRetry: true,
+				fixedSpeed: true
 			}, // 370100, 370200, 370300, 370400, 370500,
-			10: { type: 'lockonCast' } // 370110, 370210, 370310, 370410, 370510
+			10: { 
+				type: 'lockonCast',
+				fixedSpeed: true
+			} // 370110, 370210, 370310, 370410, 370510
 		},
 		38: { // Backstep 
 			0: true // 380100
@@ -1171,7 +1191,8 @@ module.exports = {
 			0: { 
 				type: 'lockon', 
 				partyOnly: true,
-				noRetry: true
+				noRetry: true,
+				fixedSpeed: true
 			}, // 410100,
 			10: { type: 'lockonCast' } // 410110
 		}
