@@ -797,7 +797,11 @@ module.exports = {
 			13: true // 190113, 190213, 190313, 190413, 190513, 190613
 		},
 		20: { // Flaming Barrage 
-			0: { type: 'lockon', noRetry: true }, // 200100, 200200, 200300, 200400, 200500, 200600, 200700, 200800,
+			0: { 
+				type: 'lockon', 
+				noRetry: true,
+				fixedSpeed: true
+			}, // 200100, 200200, 200300, 200400, 200500, 200600, 200700, 200800,
 			10: { 
 				type: 'lockonCast',
 				glyphs: {
