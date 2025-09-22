@@ -814,23 +814,23 @@ module.exports = {
 			 } // 200110, 200210, 200310, 200410, 200510, 200610, 200710, 200810
 		},
 		21: { // Nerve Exhaustion 
-			0: { type: 'lockon', noRetry: true }, // 210100, 210200, 210300, 210400,
-			10: { type: 'lockonCast' } // 210110, 210210, 210310, 210410
+			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 210100, 210200, 210300, 210400,
+			10: { type: 'lockonCast', fixedSpeed: true } // 210110, 210210, 210310, 210410
 		},
 		22: { // Burning Breath 
-			0: { type: 'lockon', noRetry: true }, // 220100, 220200, 220300, 220400, 220500, 220600, 220700,
-			10: { type: 'lockonCast' } // 220110, 220210, 220310, 220410, 220510, 220610, 220710
+			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 220100, 220200, 220300, 220400, 220500, 220600, 220700,
+			10: { type: 'lockonCast', fixedSpeed: true } // 220110, 220210, 220310, 220410, 220510, 220610, 220710
 		},
 		23: { // Mana Volley 
-			0: { type: 'lockon', noRetry: true }, // 230100, 230200, 230300, 230400,
-			10: { type: 'lockonCast' } // 230110, 230210, 230310, 230410
+			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 230100, 230200, 230300, 230400,
+			10: { type: 'lockonCast', fixedSpeed: true } // 230110, 230210, 230310, 230410
 		},
 		24: { // Sorcerer Contract Of Quickness Cast
-			0: true // 240100, 240200
+			0: { fixedSpeed: true } // 240100, 240200
 		},
 		25: { // Time Gyre 
-			0: { type: 'lockon', noRetry: true }, // 250100, 250200, 250300, 250400, 250500, 250600,
-			10: { type: 'lockonCast' } // 250110, 250210, 250310, 250410, 250510, 250610
+			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 250100, 250200, 250300, 250400, 250500, 250600,
+			10: { type: 'lockonCast', fixedSpeed: true } // 250110, 250210, 250310, 250410, 250510, 250610
 		},
 		26: { // Teleport Jaunt 
 			0: { noInterrupt: [26], noRetry: true } // 260100, 260200
@@ -859,7 +859,7 @@ module.exports = {
 			0: true // 10100, 10200, 10300, 10400, 10500, 10600, 10700, 10800, 10900, 11000, 11100, 11200, 11300, 11400, 11500
 		},
 		2: { // Arrow Volley 
-			0: { type: 'lockon', noRetry: true }, // 20100, 20200, 20300, 20400, 20500, 20600, 20700, 20800, 20900, 21000, 21100, 21200, 21300, 21400, 21500,
+			0: { type: 'lockon', noRetry: true, fixedSpeed: 1 }, // 20100, 20200, 20300, 20400, 20500, 20600, 20700, 20800, 20900, 21000, 21100, 21200, 21300, 21400, 21500,
 			10: { type: 'lockonCast' } // 20110, 20210, 20310, 20410, 20510, 20610, 20710, 20810, 20910, 21010, 21110, 21210, 21310, 21410, 21510
 		},
 		3: { // Radiant Arrow 
@@ -995,7 +995,7 @@ module.exports = {
 			20: true // 290120
 		},
 		31: { // Archer Tenacity Cast
-			0: true // 310100
+			0: { fixedSpeed: true } // 310100
 		}
 	},
 	6: { // Priest
