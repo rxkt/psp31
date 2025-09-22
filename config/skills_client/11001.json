@@ -45571,7 +45571,6 @@
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
       "length": 320,
-      "distance": 30,
       "abnormalChains": {
         "100800": 31
       }
@@ -45590,7 +45589,6 @@
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
       "length": 320,
-      "distance": 30,
       "abnormalChains": {
         "100801": 31
       }
@@ -45609,7 +45607,6 @@
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
       "length": 1533,
-      "distance": 30,
       "abnormalChains": {
         "100800": 31
       }
@@ -45628,7 +45625,6 @@
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
       "length": 1533,
-      "distance": 30,
       "abnormalChains": {
         "100800": 31
       }
