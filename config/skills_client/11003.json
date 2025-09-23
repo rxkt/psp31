@@ -42034,7 +42034,6 @@
       "noWeapon": true,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300600": 31
       },
@@ -42053,7 +42052,6 @@
       "noWeapon": true,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300601": 31
       },
@@ -42072,7 +42070,6 @@
       "noWeapon": true,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300602": 31
       },
@@ -42091,7 +42088,6 @@
       "noWeapon": true,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300601": 31
       },
@@ -42110,7 +42106,6 @@
       "noWeapon": true,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300601": 31
       },
@@ -42273,7 +42268,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300100": 31
       },
@@ -42292,7 +42286,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300101": 31
       },
@@ -42311,7 +42304,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300100": 31
       },
@@ -42330,7 +42322,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 600,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300100": 31
       },
@@ -44878,7 +44869,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 300,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300300": 31
       },
@@ -44897,7 +44887,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 300,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300301": 31
       },
@@ -44916,7 +44905,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 300,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300300": 31
       },
@@ -44935,7 +44923,6 @@
       "noWeapon": false,
       "rearCancelStartTime": 300,
       "skillPendingType": "normal",
-      "distance": 20,
       "abnormalChains": {
         "300300": 31
       },
