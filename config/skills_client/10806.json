@@ -295,7 +295,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -330,7 +330,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -365,7 +365,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -400,7 +400,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -435,7 +435,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -470,7 +470,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -505,7 +505,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -540,7 +540,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -575,7 +575,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -610,7 +610,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -645,7 +645,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -680,7 +680,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -715,7 +715,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -750,7 +750,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -785,7 +785,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "normal",
@@ -9915,7 +9915,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -9949,7 +9949,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,
@@ -9968,7 +9968,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,

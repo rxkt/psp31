@@ -5520,7 +5520,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 500,
@@ -5539,7 +5539,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 500,
@@ -5558,7 +5558,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 500,
@@ -5577,7 +5577,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 500,
@@ -5682,7 +5682,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5704,7 +5704,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5726,7 +5726,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5748,7 +5748,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5812,7 +5812,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5831,7 +5831,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5850,7 +5850,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5872,7 +5872,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5894,7 +5894,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5916,7 +5916,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5938,7 +5938,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5960,7 +5960,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -5982,7 +5982,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -6004,7 +6004,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -6026,7 +6026,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -6048,7 +6048,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -6069,7 +6069,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 350,
@@ -6087,7 +6087,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 350,
@@ -7933,7 +7933,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -7956,7 +7956,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -7979,7 +7979,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8002,7 +8002,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8025,7 +8025,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8048,7 +8048,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8071,7 +8071,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8094,7 +8094,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8117,7 +8117,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8140,7 +8140,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8163,7 +8163,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8186,7 +8186,7 @@
         10000,
         9999
       ],
-      "dcType": "catchBack",
+      "dcType": "catchback",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -8261,7 +8261,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,
@@ -8280,7 +8280,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,
