@@ -41327,7 +41327,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41419,7 +41419,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41511,7 +41511,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41603,7 +41603,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41695,7 +41695,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41787,7 +41787,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41879,7 +41879,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -41971,7 +41971,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -42063,7 +42063,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -42155,7 +42155,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -42247,7 +42247,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -42343,7 +42343,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -42439,7 +42439,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -42535,7 +42535,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -43173,7 +43173,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": true,
       "rearCancelStartTime": 600,
@@ -43191,7 +43191,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": true,
       "rearCancelStartTime": 600,
@@ -43209,7 +43209,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": true,
       "rearCancelStartTime": 600,
@@ -43227,7 +43227,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": true,
       "rearCancelStartTime": 600,
@@ -43245,7 +43245,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": true,
       "rearCancelStartTime": 600,
@@ -43440,7 +43440,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.3,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -43459,7 +43459,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.3,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -43481,7 +43481,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.3,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -43503,7 +43503,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.3,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -43658,7 +43658,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -43676,7 +43676,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -43694,7 +43694,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -43712,7 +43712,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -43731,7 +43731,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -43839,7 +43839,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -43947,7 +43947,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44055,7 +44055,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44163,7 +44163,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44271,7 +44271,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44379,7 +44379,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44487,7 +44487,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44595,7 +44595,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44704,7 +44704,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44812,7 +44812,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -44920,7 +44920,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -45048,7 +45048,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -45176,7 +45176,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -45975,7 +45975,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46095,7 +46095,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46215,7 +46215,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46335,7 +46335,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46455,7 +46455,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46575,7 +46575,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46695,7 +46695,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -46816,7 +46816,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "distance": 0,
@@ -46939,7 +46939,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -47059,7 +47059,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -47183,7 +47183,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -47307,7 +47307,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "hotkeyrearCancelOnly",
@@ -47428,7 +47428,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47447,7 +47447,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47466,7 +47466,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47485,7 +47485,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47504,7 +47504,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47526,7 +47526,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47548,7 +47548,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "pendingStartTime": 500,
@@ -47570,7 +47570,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -47588,7 +47588,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -47606,7 +47606,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -47624,7 +47624,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -47643,7 +47643,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -47735,7 +47735,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -47827,7 +47827,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -47919,7 +47919,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48011,7 +48011,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48103,7 +48103,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48195,7 +48195,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48291,7 +48291,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48387,7 +48387,7 @@
         10000,
         9999
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48482,7 +48482,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48500,7 +48500,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48518,7 +48518,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48536,7 +48536,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48557,7 +48557,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48578,7 +48578,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48596,7 +48596,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48614,7 +48614,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48635,7 +48635,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 1100,
@@ -48656,7 +48656,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -48674,7 +48674,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -48692,7 +48692,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -48710,7 +48710,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 600,
@@ -48750,7 +48750,7 @@
         9999,
         89
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "distance": 0,
       "keptMovingCharge": true,
@@ -48857,7 +48857,7 @@
         9999,
         89
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -48966,7 +48966,7 @@
         9999,
         89
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -49079,7 +49079,7 @@
         9999,
         89
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -49192,7 +49192,7 @@
         9999,
         89
       ],
-      "dcType": "movingcharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -49403,7 +49403,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,
@@ -49422,7 +49422,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,

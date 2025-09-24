@@ -2020,7 +2020,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1.3,
       "noWeapon": false,
       "pendingStartTime": 1156,
@@ -2043,7 +2043,7 @@
         10000,
         9999
       ],
-      "dcType": "movingCharge",
+      "dcType": "moving charge",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 950,
@@ -2179,7 +2179,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,
@@ -2198,7 +2198,7 @@
         10000,
         9999
       ],
-      "dcType": "movingSkill",
+      "dcType": "movingskill",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 400,
