@@ -5933,7 +5933,7 @@
         10000,
         9999
       ],
-      "dcType": "moving charge",
+      "dcType": "movingcharge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",
@@ -6007,7 +6007,7 @@
         10000,
         9999
       ],
-      "dcType": "moving charge",
+      "dcType": "movingcharge",
       "timeRate": 1,
       "noWeapon": false,
       "skillPendingType": "allTimeLine",

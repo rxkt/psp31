@@ -42049,7 +42049,7 @@
         10000,
         9999
       ],
-      "dcType": "moving charge",
+      "dcType": "movingcharge",
       "timeRate": 1,
       "noWeapon": false,
       "rearCancelStartTime": 950,
