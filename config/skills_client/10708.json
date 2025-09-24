@@ -3165,7 +3165,7 @@
       "noWeapon": false,
       "rearCancelStartTime": 5000,
       "skillPendingType": "normal",
-      "distance": 100,
+      "distance": 0,
       "length": 4445
     },
     "110200": {
@@ -8173,7 +8173,7 @@
       "noWeapon": false,
       "skillPendingType": "normal",
       "length": 4900,
-      "distance": 466
+      "distance": 0
     },
     "410110": {
       "category": [
@@ -8191,7 +8191,7 @@
       "pendingStartTime": 350,
       "rearCancelStartTime": 1010,
       "skillPendingType": "immediateCancel",
-      "distance": 466,
+      "distance": 0,
       "abnormalChains": {
         "701700": 31
       },
@@ -8227,7 +8227,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "skillPendingType": "normal",
-      "distance": 12,
+      "distance": 0,
       "length": 0
     },
     "9010100": {
