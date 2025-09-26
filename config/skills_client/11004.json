@@ -43570,7 +43570,7 @@
       "abnormalChains": {
         "400100": 31
       },
-      "length": 1666
+      "length": 1414
     },
     "80200": {
       "category": [
@@ -43589,7 +43589,7 @@
       "abnormalChains": {
         "400101": 31
       },
-      "length": 1666
+      "length": 1414
     },
     "80300": {
       "category": [
@@ -43608,7 +43608,7 @@
       "abnormalChains": {
         "400102": 31
       },
-      "length": 1666
+      "length": 1414
     },
     "80400": {
       "category": [
@@ -43627,7 +43627,7 @@
       "abnormalChains": {
         "400103": 31
       },
-      "length": 1666
+      "length": 1414
     },
     "80500": {
       "category": [
@@ -43646,7 +43646,7 @@
       "abnormalChains": {
         "400104": 31
       },
-      "length": 1666
+      "length": 1414
     },
     "80600": {
       "category": [
@@ -49090,7 +49090,7 @@
       "skillPendingType": "normal",
       "keepMovingCharge": true,
       "distance": 150,
-      "length": 1021
+      "length": 1091
     },
     "240105": {
       "category": [
@@ -49201,7 +49201,7 @@
       "abnormalChains": {
         "400900": 31
       },
-      "length": 1021
+      "length": 1091
     },
     "240205": {
       "category": [
