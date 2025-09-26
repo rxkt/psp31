@@ -903,8 +903,7 @@ module.exports = {
 			10: { type: 'lockonCast' } // 20110, 20210, 20310, 20410, 20510, 20610, 20710, 20810, 20910, 21010, 21110, 21210, 21310, 21410, 21510
 		},
 		3: { // Radiant Arrow 
-			"*": {noInterrupt: [22]},
-			0: {
+			0: {noInterrupt: [22],
 				abnormals: {
 					26180: { chargeSpeed: 0.3 },
 					601450: { chargeSpeed: 0.5 }
@@ -916,8 +915,7 @@ module.exports = {
 			13: true // 30113, 30213, 30313, 30413, 30513, 30613, 30713, 30813, 30913, 31013, 31113, 31213, 31313, 31413
 		},
 		4: { // Penetrating Arrow 
-			"*": {noInterrupt: [22]},
-			0: {
+			0: {noInterrupt: [22],
 				abnormals: {
 					26160: { chargeSpeed: 0.3 },
 					26170: { chargeSpeed: 0.3 },
