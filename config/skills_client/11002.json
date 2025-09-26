@@ -40988,8 +40988,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "rearCancelStartTime": 60000,
-      "skillPendingType": "rearCancelOnly",
-      "length": 1243
+      "skillPendingType": "rearCancelOnly"
     },
     "20200": {
       "category": [
@@ -41004,8 +41003,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "rearCancelStartTime": 60000,
-      "skillPendingType": "rearCancelOnly",
-      "length": 1243
+      "skillPendingType": "rearCancelOnly"
     },
     "20300": {
       "category": [
@@ -42471,7 +42469,10 @@
         "200100": 31,
         "201000": 31
       },
-      "length": 1566
+      "length": [
+        733,
+        833
+      ]
     },
     "90200": {
       "category": [
@@ -42492,7 +42493,10 @@
         "200100": 31,
         "201000": 31
       },
-      "length": 1566
+      "length": [
+        733,
+        833
+      ]
     },
     "90300": {
       "category": [
@@ -42513,7 +42517,10 @@
         "200100": 31,
         "201000": 31
       },
-      "length": 1566
+      "length": [
+        733,
+        833
+      ]
     },
     "90400": {
       "category": [
@@ -45225,7 +45232,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 1200,
       "skillPendingType": "normal",
-      "length": 1500,
+      "length": [
+        900,
+        600
+      ],
       "abnormalChains": {
         "201200": 31
       }
@@ -45598,7 +45608,10 @@
       "abnormalChains": {
         "200100": 31
       },
-      "length": 1566
+      "length": [
+        733,
+        833
+      ]
     },
     "230200": {
       "category": [
@@ -45618,7 +45631,10 @@
       "abnormalChains": {
         "200100": 31
       },
-      "length": 1566
+      "length": [
+        733,
+        833
+      ]
     },
     "230300": {
       "category": [
@@ -45661,7 +45677,10 @@
       "abnormalChains": {
         "201400": 31
       },
-      "length": 1566
+      "length": [
+        733,
+        933
+      ]
     },
     "240120": {
       "category": [
@@ -45678,8 +45697,7 @@
       "distance": 375,
       "abnormalChains": {
         "201401": 31
-      },
-      "length": 0
+      }
     },
     "240200": {
       "category": [

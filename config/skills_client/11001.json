@@ -45857,7 +45857,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "240400": {
       "category": [
@@ -45875,7 +45878,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "240500": {
       "category": [
@@ -45893,7 +45899,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "240600": {
       "category": [
@@ -45911,7 +45920,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "240700": {
       "category": [
@@ -45929,7 +45941,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "240800": {
       "category": [
@@ -45947,7 +45962,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "240900": {
       "category": [
@@ -45965,7 +45983,10 @@
       "pendingStartTime": 500,
       "rearCancelStartTime": 500,
       "skillPendingType": "normal",
-      "length": 1961
+      "length": [
+        900,
+        1533
+      ]
     },
     "241000": {
       "category": [
@@ -47873,8 +47894,7 @@
       "timeRate": 1.1,
       "noWeapon": false,
       "rearCancelStartTime": 60000,
-      "skillPendingType": "rearCancelOnly",
-      "length": 1223
+      "skillPendingType": "rearCancelOnly"
     },
     "320200": {
       "category": [
