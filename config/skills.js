@@ -320,7 +320,7 @@ module.exports = {
 			0: { fixedSpeed: true } // 190100, 190200, 190300, 190400
 		},
 		20: { // Lancer Menace Wave Cast
-			0: { fixedSpeed: true } // 200100, 200200, 200300
+			0: true // 200100, 200200, 200300
 		},
 		21: { // Lockdown Blow 
 			0: true // 210100, 210200, 210300, 210400, 210500, 210600, 210700
@@ -534,7 +534,7 @@ module.exports = {
 			3: true // 10103, 10203, 10303, 10403, 10503, 10603, 10703, 10803, 10903, 11003, 11103, 11203, 11303, 11403, 11503
 		},
 		2: { // Axe Block 
-			'*': { consumeAbnormal: 401701, fixedSpeed: true },
+			'*': { consumeAbnormal: 401701 },
 			0: true // 20100, 20200, 20300
 		},
 		3: {
@@ -589,7 +589,6 @@ module.exports = {
 			30: true // 60100, 60200, 60300, 60400, 60500, 60600, 60700, 60800
 		},
 		7: { // Berserker Shocking Shout Start
-			'*': { fixedSpeed: true, length: 1285 },
 			0: true // 70100, 70200, 70300, 70400
 		},
 		8: { // Fiery Rage 
@@ -837,11 +836,7 @@ module.exports = {
 			13: true // 190113, 190213, 190313, 190413, 190513, 190613
 		},
 		20: { // Flaming Barrage 
-			0: { 
-				type: 'lockon', 
-				noRetry: true,
-				fixedSpeed: true
-			}, // 200100, 200200, 200300, 200400, 200500, 200600, 200700, 200800,
+			0: { type: 'lockon', noRetry: true }, // 200100, 200200, 200300, 200400, 200500, 200600, 200700, 200800,
 			10: { 
 				type: 'lockonCast',
 				glyphs: {
@@ -854,23 +849,23 @@ module.exports = {
 			 } // 200110, 200210, 200310, 200410, 200510, 200610, 200710, 200810
 		},
 		21: { // Nerve Exhaustion 
-			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 210100, 210200, 210300, 210400,
-			10: { type: 'lockonCast', fixedSpeed: true } // 210110, 210210, 210310, 210410
+			0: { type: 'lockon', noRetry: true }, // 210100, 210200, 210300, 210400,
+			10: { type: 'lockonCast' } // 210110, 210210, 210310, 210410
 		},
 		22: { // Burning Breath 
-			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 220100, 220200, 220300, 220400, 220500, 220600, 220700,
-			10: { type: 'lockonCast', fixedSpeed: true } // 220110, 220210, 220310, 220410, 220510, 220610, 220710
+			0: { type: 'lockon', noRetry: true }, // 220100, 220200, 220300, 220400, 220500, 220600, 220700,
+			10: { type: 'lockonCast' } // 220110, 220210, 220310, 220410, 220510, 220610, 220710
 		},
 		23: { // Mana Volley 
-			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 230100, 230200, 230300, 230400,
-			10: { type: 'lockonCast', fixedSpeed: true } // 230110, 230210, 230310, 230410
+			0: { type: 'lockon', noRetry: true }, // 230100, 230200, 230300, 230400,
+			10: { type: 'lockonCast' } // 230110, 230210, 230310, 230410
 		},
 		24: { // Sorcerer Contract Of Quickness Cast
-			0: { fixedSpeed: true } // 240100, 240200
+			0: true // 240100, 240200
 		},
 		25: { // Time Gyre 
-			0: { type: 'lockon', noRetry: true, fixedSpeed: true }, // 250100, 250200, 250300, 250400, 250500, 250600,
-			10: { type: 'lockonCast', fixedSpeed: true } // 250110, 250210, 250310, 250410, 250510, 250610
+			0: { type: 'lockon', noRetry: true }, // 250100, 250200, 250300, 250400, 250500, 250600,
+			10: { type: 'lockonCast' } // 250110, 250210, 250310, 250410, 250510, 250610
 		},
 		26: { // Teleport Jaunt 
 			0: { noInterrupt: [26], noRetry: true } // 260100, 260200
@@ -899,7 +894,7 @@ module.exports = {
 			0: true // 10100, 10200, 10300, 10400, 10500, 10600, 10700, 10800, 10900, 11000, 11100, 11200, 11300, 11400, 11500
 		},
 		2: { // Arrow Volley 
-			0: { type: 'lockon', noRetry: true, fixedSpeed: 1 }, // 20100, 20200, 20300, 20400, 20500, 20600, 20700, 20800, 20900, 21000, 21100, 21200, 21300, 21400, 21500,
+			0: { type: 'lockon', noRetry: true }, // 20100, 20200, 20300, 20400, 20500, 20600, 20700, 20800, 20900, 21000, 21100, 21200, 21300, 21400, 21500,
 			10: { type: 'lockonCast' } // 20110, 20210, 20310, 20410, 20510, 20610, 20710, 20810, 20910, 21010, 21110, 21210, 21310, 21410, 21510
 		},
 		3: { // Radiant Arrow 
@@ -1050,7 +1045,7 @@ module.exports = {
 			20: true // 290120
 		},
 		31: { // Archer Tenacity Cast
-			0: { fixedSpeed: true } // 310100
+			0: true // 310100
 		}
 	},
 	6: { // Priest
@@ -1132,8 +1127,7 @@ module.exports = {
 		19: { // Focus Heal 
 			0: { 
 				noRetry: true,
-				type: 'lockon',
-				fixedSpeed: true
+				type: 'lockon' 
 			}, // 190100, 190200, 190300, 190400, 190500, 190600, 190700, 190800, 190900, 191000, 191100, 191200,
 			10: { type: 'lockonCast' } // 190110, 190210, 190310, 190410, 190510, 190610, 190710, 190810, 190910, 191010, 191110, 191210
 		},
@@ -1185,33 +1179,22 @@ module.exports = {
 		},
 		30: { // Plague of Exhaustion 
 			0: {
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 300100, 300200, 300300, 300400, 300500, 300600, 300700, 300800, 300900, 301000,
-			10: {
-				fixedSpeed: true
-			} // 300110, 300210, 300310, 300410, 300510, 300610, 300710, 300810, 300910, 301010
+			10: true // 300110, 300210, 300310, 300410, 300510, 300610, 300710, 300810, 300910, 301010
 		},
 		31: { // Guardian Sanctuary 
-			0: {
-				fixedSpeed: true
-			} // 310100, 310200, 310300, 310400, 310500
+			0: true // 310100, 310200, 310300, 310400, 310500
 		},
 		32: { // Divine Prayer 
-			0: {
-				fixedSpeed: true
-			} // 320100, 320200, 320300, 320400, 320500
+			0: true // 320100, 320200, 320300, 320400, 320500
 		},
 		33: { // Ishara's Lulliby 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 330100, 330200, 330300, 330400, 330500,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 330110, 330210, 330310, 330410, 330510
+			10: { type: 'lockonCast' } // 330110, 330210, 330310, 330410, 330510
 		},
 		34: { // Restorative Burst 
 			0: true, // 340100, 340200, 340300, 340400, 340500, 340600, 340700, 340800, 340900, 341000, 341100, 341200, 341300, 341400,
@@ -1220,13 +1203,9 @@ module.exports = {
 		35: { // Energy Stars 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 350100, 350200, 350300, 350400, 350500, 350600, 350700,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 350110, 350210, 350310, 350410, 350510, 350610, 350710
+			10: { type: 'lockonCast' } // 350110, 350210, 350310, 350410, 350510, 350610, 350710
 		},
 		36: { // Priest Advent Goddess
 			0: true // 360100, 360200
@@ -1234,13 +1213,9 @@ module.exports = {
 		37: { // Healing Immersion 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 370100, 370200, 370300, 370400, 370500,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 370110, 370210, 370310, 370410, 370510
+			10: { type: 'lockonCast' } // 370110, 370210, 370310, 370410, 370510
 		},
 		38: { // Backstep 
 			0: true // 380100
@@ -1256,8 +1231,7 @@ module.exports = {
 			0: { 
 				type: 'lockon', 
 				partyOnly: true,
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 410100,
 			10: { type: 'lockonCast' } // 410110
 		}
@@ -1284,8 +1258,7 @@ module.exports = {
 		5: { // Titanic Favor 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 50100, 50200, 50300, 50400, 50500, 50600, 50700, 50800, 50900, 51000, 51100, 51200,
 			10: { type: 'lockonCast' } // 50110, 50210, 50310, 50410, 50510, 50610, 50710, 50810, 50910, 51010, 51110, 51210
 		},
@@ -1302,8 +1275,7 @@ module.exports = {
 		9: { // Arun's Cleansing 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			 }, // 90100, 90200, 90300, 90400, 90500,
 			10: { type: 'lockonCast' } // 90110, 90210, 90310, 90410, 90510
 		},
@@ -1370,94 +1342,61 @@ module.exports = {
 		24: { // Volley of Curses 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 240100, 240200, 240300, 240400, 240500, 240600, 240700, 240800, 240900, 241000, 241100, 241200,
-			10: {
-				fixedSpeed: true
-			} // 240110, 240210, 240310, 240410, 240510, 240610, 240710, 240810, 240910, 241010, 241110, 241210
+			10: true // 240110, 240210, 240310, 240410, 240510, 240610, 240710, 240810, 240910, 241010, 241110, 241210
 		},
 		25: { // Thrall of Protection 
-			0: {
-				fixedSpeed: true
-			} // 250100, 250200, 250300, 250400, 250500, 250600, 250700, 250800, 250900, 251000, 251100, 251200, 251300, 251400, 251500, 251600, 251700, 251800, 251900
+			0: true // 250100, 250200, 250300, 250400, 250500, 250600, 250700, 250800, 250900, 251000, 251100, 251200, 251300, 251400, 251500, 251600, 251700, 251800, 251900
 		},
 		26: { // Elementalist Summon Elemental Attack Cast
 			0: true // 260100, 260200, 260300, 260400, 260500, 260600, 260700, 260800, 260900, 261000, 261100, 261200, 261300, 261400, 261500, 261600
 		},
 		27: { // Thrall of Life 
-			0: {
-				fixedSpeed: 1
-			} // 270100, 270200, 270300, 270400, 270500, 270600, 270700, 270800, 270900, 271000, 271100, 271200, 271300, 271400, 271500, 271600
+			0: true // 270100, 270200, 270300, 270400, 270500, 270600, 270700, 270800, 270900, 271000, 271100, 271200, 271300, 271400, 271500, 271600
 		},
 		28: { // Sonorous Dreams 
 			0: { 
 				noRetry: true,
-				type: 'lockon',
-				fixedSpeed: true
+				type: 'lockon'
 			}, // 280100, 280200, 280300, 280400, 280500, 280600,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 280110, 280210, 280310, 280410, 280510, 280610
+			10: { type: 'lockonCast' } // 280110, 280210, 280310, 280410, 280510, 280610
 		},
 		29: { // Regression 
-			0: {
-				fixedSpeed: true
-			} // 290100, 290200, 290300, 290400, 290500, 290600
+			0: true // 290100, 290200, 290300, 290400, 290500, 290600
 		},
 		30: { // Curse of Exhaustion 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 300100, 300200, 300300, 300400, 300500, 300600,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 300110, 300210, 300310, 300410, 300510, 300610
+			10: { type: 'lockonCast' } // 300110, 300210, 300310, 300410, 300510, 300610
 		},
 		31: { // Curse of Confusion 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 310100, 310200, 310300, 310400, 310500,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 310110, 310210, 310310, 310410, 310510
+			10: { type: 'lockonCast' } // 310110, 310210, 310310, 310410, 310510
 		},
 		32: { // Mire 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			}, // 320100, 320200, 320300, 320400, 320500, 320600,
-			10: { 
-				type: 'lockonCast',
-				fixedSpeed: true
-			} // 320110, 320210, 320310, 320410, 320510, 320610
+			10: { type: 'lockonCast' } // 320110, 320210, 320310, 320410, 320510, 320610
 		},
 		33: { // Thrall of Vengeance 
-			0: {
-				fixedSpeed: true
-			} // 330100, 330200, 330300, 330400, 330500, 330600, 330700, 330800, 330900, 331000, 331100, 331200, 331300, 331400, 331500, 331600, 331700
+			0: true // 330100, 330200, 330300, 330400, 330500, 330600, 330700, 330800, 330900, 331000, 331100, 331200, 331300, 331400, 331500, 331600, 331700
 		},
 		34: { // Thrall of Wrath 
-			0: {
-				fixedSpeed: true
-			} // 340100, 340200, 340300, 340400, 340500, 340600, 340700, 340800, 340900, 341000, 341100, 341200, 341300, 341400, 341500, 341600
+			0: true // 340100, 340200, 340300, 340400, 340500, 340600, 340700, 340800, 340900, 341000, 341100, 341200, 341300, 341400, 341500, 341600
 		},
 		35: { // Command: Attack 
-			0: {
-				fixedSpeed: true
-			} // 350100
+			0: true // 350100
 		},
 		36: { // Command: Follow 
-			0: {
-				fixedSpeed: true
-			} // 360100
+			0: true // 360100
 		},
 		37: { // Warding Totem 
 			0: true // 370100, 370200, 370300, 370400, 370500
@@ -1474,8 +1413,7 @@ module.exports = {
 		41: { // Contagion 
 			0: { 
 				type: 'lockon',
-				noRetry: true,
-				fixedSpeed: true
+				noRetry: true
 			 }, // 410100,
 			10: { type: 'lockonCast' } // 410110
 		},
