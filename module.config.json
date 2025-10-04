@@ -1,4 +1,4 @@
 {
-  "disabled": false,
-  "disableAutoUpdate": false
+    "disabled": false,
+    "disableAutoUpdate": true
 }
