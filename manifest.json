@@ -85,8 +85,6 @@
         "node_modules/xmlbuilder/package.json": "7e2f254e4004b5ea5f6ee351541afe893f8dfc66f8b527774c5a57860a8778d8",
         "node_modules/xmlbuilder/typings/index.d.ts": "ff4ec1a818fdc981cf63e314447224587848ca4738e9fb5818b3c204df7b5743",
         "package-lock.json": "dbc4d635916a4aab6df44569be06489b904bab6b26a677472b459ae7bbfda967",
-        "package.json": "841ed6d34234516644bda610a1b575d1b443fcac4741918b7e4069e945df7dd6",
-        "scripts/update-berserker-fixedspeed.js": "692b6338a139ce656c2def2bbc74277f515d4d3cf79ddf9755204ff26bd2c28d",
-        "scripts/update-warrior-fixedspeed.js": "cf0cc0cd2386980212e5e9c90d174f17c68675c5308c7be64a21d9c48466eb61"
+        "package.json": "841ed6d34234516644bda610a1b575d1b443fcac4741918b7e4069e945df7dd6"
     }
 }
