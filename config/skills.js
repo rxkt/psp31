@@ -35,21 +35,21 @@ module.exports = {
 				distance: 73.34
 			}
 		},
-		2: { // Evasive Roll 
-			0: { 
-				length: 825,
-				distance: 150, 
-				forceClip: true,
-				stamina: 500, 
-				instantStamina: true, 
-				noInterrupt: [32, 10],
-				glyphs: {
-					21015: { stamina: -100 },
-					21067: { stamina: -100 },
-					21101: { stamina: -120 }
-				}
-			} // 20100, 20200, 20300
-		},
+		2: false,//{ // Evasive Roll 
+			//0: { 
+				//length: 825,
+				//distance: 150, 
+				//forceClip: true,
+				//stamina: 500, 
+				//instantStamina: true, 
+				//noInterrupt: [32, 10],
+				//glyphs: {
+				//	21015: { stamina: -100 },
+				//	21067: { stamina: -100 },
+				//	21101: { stamina: -120 }
+			//	}
+			//} // 20100, 20200, 20300
+		//},
 		3: { // Torrent of Blows 
 			0: true // 30100, 30200, 30300, 30400, 30500, 30600, 30700, 30800, 30900, 31000, 31100, 31200
 		},
@@ -348,14 +348,14 @@ module.exports = {
 			}, // 250100, 250200, 250300, 250400, 250500, 250600, 250700, 250800, 250900, 251000,
 			30: true // 250130, 250230, 250330, 250430, 250530, 250630, 250730, 250830, 250930, 251030
 		},
-		26: { // Backstep 
-			0: {
-				forceClip: true, 
-				stamina: 200, 
-				instantStamina: true, 
-				noInterrupt: [26]
-			} // 260100, 260200, 260300
-		},
+		26: false,//{ // Backstep 
+			//0: {
+				//forceClip: true, 
+				//stamina: 200, 
+				//instantStamina: true, 
+				//noInterrupt: [26]
+			//} // 260100, 260200, 260300
+		//},
 		27: { // Rallying Cry 
 			0: true // 270100
 		}
@@ -387,14 +387,14 @@ module.exports = {
 				} // 30100, 30200, 30300, 30400, 30500, 30600, 30700, 30800, 30900, 31000, 31100, 31200, 31300, 31400, 31500
 			}
 		},
-		4: { // Evasive Roll 
-		'*': {
-			forceClip: true,
-			hasChains: true
-			},
-			0: { abnormalChains: { 40300: 30 } }, // 40100, 40200, 40300,
-			30: true // 40230
-		},
+		4: false, //{ // Evasive Roll 
+		//'*': {
+			//forceClip: true,
+			//hasChains: true
+			//},
+			//0: { abnormalChains: { 40300: 30 } }, // 40100, 40200, 40300,
+			//30: true // 40230
+		//},
 		5: { // Dash 
 			0: { fixedSpeed: true } // 50100, 50200, 50300, 50400, 50500
 		},
@@ -773,9 +773,9 @@ module.exports = {
 				}
 			} // 60100, 60200, 60300, 60400, 60500, 60600, 60700, 60800, 60900, 61000
 		},
-		7: { // Backstep 
-			0: { forceClip: true } // 70100, 70200, 70300
-		},
+		7: false,//{ // Backstep 
+			//0: { forceClip: true } // 70100, 70200, 70300
+		//},
 		8: { // Flame Pillar 
 			0: {
 				abnormals: {
@@ -943,9 +943,9 @@ module.exports = {
 			}, // 50100, 50200, 50300, 50400, 50500, 50600,
 			20: true // 50120, 50220, 50320, 50420, 50520, 50620
 		},
-		6: { // Backstep 
-			0: { forceClip: true }, // 60100, 60200, 60300
-		},
+		6: false, //{ // Backstep
+			//0: { forceClip: true }, // 60100, 60200, 60300
+		//},
 		7: { // Feign Death 
 			0: { fixedSpeed: true } // 70100, 70200, 70300, 70400, 70500, 70600, 70700
 		},
@@ -1242,9 +1242,9 @@ module.exports = {
 				fixedSpeed: true
 			} // 370110, 370210, 370310, 370410, 370510
 		},
-		38: { // Backstep 
-			0: true // 380100
-		},
+		38: false, //{ // Backstep
+			//0: true // 380100
+		//},
 		39: { // Grace of Resurrection 
 			0: true // 390100, 390200, 390300, 390400, 390500
 		},
@@ -2075,9 +2075,9 @@ module.exports = {
 			1: true, // 230101,
 			2: true // 230102
 		},
-		40: { // Rolling Reload / Dashing Reload 
-			'*': { fixedSpeed: true, triggerAbnormal: { 10152010: 3100, 10152012: 3100, 10152354: 4000 }, forceClip: true },
-			0: true // 400100
-		}
+		40: false,//{ // Rolling Reload / Dashing Reload 
+			//'*': { fixedSpeed: true, triggerAbnormal: { 10152010: 3100, 10152012: 3100, 10152354: 4000 }, forceClip: true },
+			//0: true // 400100
+		//}
 	}
 }
