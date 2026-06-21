@@ -552,7 +552,8 @@ module.exports = {
 				abnormals: {
 					24130: { chargeSpeed: 0.3 },
 					24170: { chargeSpeed: 0.25 }
-				}
+				},
+				distance: 0
 			},
 			10: { noRetry: true }, // 30110, 30210, 30310, 30410, 30510, 30610, 30710, 30810, 30910, 31010, 31110, 31210, 31310, 31410,
 			11: { noRetry: true }, // 30111, 30211, 30311, 30411, 30511, 30611, 30711, 30811, 30911, 31011, 31111, 31211, 31311, 31411,
@@ -571,7 +572,7 @@ module.exports = {
 				chains: {
                     6: 30,
                     25: 30,
-                }
+                },
             }, // 40100, 40200, 40300, 40400, 40500, 40600, 40700, 40800, 40900, 41000, 41100, 41200, 41300, 41400, 41500,
 			30: {
 				chains: {
@@ -589,14 +590,14 @@ module.exports = {
 			30: true // 60100, 60200, 60300, 60400, 60500, 60600, 60700, 60800
 		},
 		7: { // Berserker Shocking Shout Start
-			'*': { fixedSpeed: true, length: 1285 },
+			'*': { fixedSpeed: true, length: [300, 1200], rearCancelStartTime: 0 },
 			0: true // 70100, 70200, 70300, 70400
 		},
 		8: { // Fiery Rage 
 			0: { fixedSpeed: true } // 80100, 80200, 80300, 80400, 80500, 80600, 80700
 		},
 		9: { // Berserker Spirit Concentrate Cast
-			0: true // 90100, 90200, 90300, 90400
+			0: { fixedSpeed: true } // 90100, 90200, 90300, 90400
 		},
 		10: { // Cyclone 
 			0: {
@@ -648,7 +649,7 @@ module.exports = {
 			0: true // 160100, 160200, 160300, 160400, 160500, 160600, 160700
 		},
 		17: { // Berserker Berserk Amplifying Cast
-			0: true // 170100, 170200, 170300, 170400
+			0: { fixedSpeed: true } // 170100, 170200, 170300, 170400
 		},
 		18: { // Berserker Soul Strike Moving Charge
 			0: true, // 180100, 180200, 180300, 180400, 180500, 180600, 180700, 180800, 180900,
@@ -943,7 +944,7 @@ module.exports = {
 			}, // 50100, 50200, 50300, 50400, 50500, 50600,
 			20: true // 50120, 50220, 50320, 50420, 50520, 50620
 		},
-		6: { // Backstep 
+		6: { // Backstep
 			0: { forceClip: true }, // 60100, 60200, 60300
 		},
 		7: { // Feign Death 
@@ -1242,7 +1243,7 @@ module.exports = {
 				fixedSpeed: true
 			} // 370110, 370210, 370310, 370410, 370510
 		},
-		38: { // Backstep 
+		38: { // Backstep
 			0: true // 380100
 		},
 		39: { // Grace of Resurrection 
